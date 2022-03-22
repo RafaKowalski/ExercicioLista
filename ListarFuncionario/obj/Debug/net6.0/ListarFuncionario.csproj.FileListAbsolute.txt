@@ -1,0 +1,15 @@
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\bin\Debug\net6.0\ListarFuncionario.exe
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\bin\Debug\net6.0\ListarFuncionario.deps.json
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\bin\Debug\net6.0\ListarFuncionario.runtimeconfig.json
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\bin\Debug\net6.0\ListarFuncionario.dll
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\bin\Debug\net6.0\ref\ListarFuncionario.dll
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\bin\Debug\net6.0\ListarFuncionario.pdb
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\obj\Debug\net6.0\ListarFuncionario.csproj.AssemblyReference.cache
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\obj\Debug\net6.0\ListarFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\obj\Debug\net6.0\ListarFuncionario.AssemblyInfoInputs.cache
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\obj\Debug\net6.0\ListarFuncionario.AssemblyInfo.cs
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\obj\Debug\net6.0\ListarFuncionario.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\obj\Debug\net6.0\ListarFuncionario.dll
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\obj\Debug\net6.0\ref\ListarFuncionario.dll
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\obj\Debug\net6.0\ListarFuncionario.pdb
+D:\Projetos C#\Listas\ListarFuncionario\ListarFuncionario\ListarFuncionario\obj\Debug\net6.0\ListarFuncionario.genruntimeconfig.cache
